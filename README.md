@@ -1,2 +1,5 @@
 # Google_login_interface 
-This is guided project for youtube
+- To run
+  - Clone the repo
+  - npm i
+  - go to index.html and click on go_live
